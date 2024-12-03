@@ -1,5 +1,5 @@
 # Excel-Sales_Analytics
-## Sales and Finance Analytics Reports
+## Sales Analytics Reports
 
 ## Sales Report:
 **Project objective:**
